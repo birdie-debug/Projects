@@ -1,0 +1,166 @@
+.buttonpress-contents {
+  background-color: grey;
+  text-align: center;
+  top: 7px;
+
+  position: relative;
+  max-width: 250px;
+
+  max-height: 150px;
+  float: right;
+}
+
+.buttonpress-contents {
+  border: 5px outset transparent;
+  background-color: grey;
+  text-align: center;
+  top: 7px;
+
+  margin-left: 100px;
+  position: fixed;
+  max-width: 250px;
+  visibility: hidden;
+  height: 180px;
+  float: right;
+  text-align: center;
+  font-size: 11px;
+  border-radius: 1px;
+  opacity: 4;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.btn-group button {
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+  background-color: grey; /* Green background */
+  border: 1px solid grey; /* Green border */
+  color: white; /* White text */
+  padding: 6.5px 11px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  position: relative;
+  top: 12.1px;
+  left: 0.9px;
+  width: 90px;
+  display: block; /* Make the buttons appear below each other */
+  max-height: 119px;
+  opacity: 4;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+  border: none;
+  border-radius: 2px;
+}
+
+/* Button Contents */
+
+/* Text to show */
+.scenarioshow {
+  visibility: visible;
+  float: right;
+  position: relative;
+  margin-bottom: 20px;
+}
+.statsshow {
+  top: 10px;
+  visibility: hidden;
+  float: right;
+  position: fixed;
+  max-width: 260px;
+
+  border-radius: 3px;
+}
+
+.answersshow {
+  top: 3px;
+  visibility: hidden;
+  float: right;
+  position: fixed;
+  max-width: 600px;
+  border: 1px;
+  width: 100%;
+}
+
+.bugsshow {
+  visibility: hidden;
+  float: right;
+  position: absolute;
+  top: 3px;
+  right: 0px;
+  margin-left: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.creditsshow {
+  top: 10px;
+  visibility: hidden;
+  float: right;
+  position: fixed;
+  max-width: 650px;
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: black;
+}
+
+.btn-group button:click {
+  background-color: black;
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: black;
+}
+
+.btn-group button:click {
+  background-color: black;
+}
+
+tr {
+  list-style: none;
+}
+
+td {
+  text-align: center;
+  overflow-y: auto;
+
+  border-collapse: collapse;
+}
+
+.bt1 {
+  background-repeat: none;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  max-width: 251px;
+  height: 141px;
+  border-radius: 3px;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  height: 0px;
+  max-width: 251px;
+  border-radius: 3px;
+}
+
+tr:nth-child(even) {
+  background-color: rgb (45, 50, 89);
+}
+
+.button-content-santa-workshop {
+  overflow-y: auto;
+}
