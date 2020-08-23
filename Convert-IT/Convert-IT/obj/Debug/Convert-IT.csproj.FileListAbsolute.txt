@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\bin\Debug\Convert-IT.exe.config
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\bin\Debug\Convert-IT.exe
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\bin\Debug\Convert-IT.pdb
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\obj\Debug\Convert-IT.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\obj\Debug\Convert_IT.Form1.resources
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\obj\Debug\Convert_IT.Properties.Resources.resources
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\obj\Debug\Convert-IT.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\obj\Debug\Convert-IT.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\obj\Debug\Convert-IT.exe
+C:\Users\asus\source\repos\Convert-IT\Convert-IT\obj\Debug\Convert-IT.pdb
